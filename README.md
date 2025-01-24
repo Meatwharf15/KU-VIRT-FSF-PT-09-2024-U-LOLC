@@ -1,28 +1,28 @@
 
       # My First README File
 
-      My Title
+      Title of the Thing
 
       ## Description
 
-      This is the description.
+      Developing my very own ReadME file from scratch
 
       ## Installation
 
-      Install the thing.
+      Instructions here
 
       ## Usage
 
-      Usage bleh 
+      Usage information 
 
       ## Contributing
 
-      This contribution is dedicated to Charles.
+      This project was made by Zach, with help from Charles
 
       ## Tests
 
-      Test 1 2 3
+      Test
 
       ## License
 
-      ![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)# KU-VIRT-FSF-PT-09-2024-U-LOLC
+      ![License]

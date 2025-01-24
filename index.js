@@ -46,9 +46,9 @@ const questions = [{
 
 // TODO: Create a function to initialize app
 function init() {
-    return inquirer.prompt(questions).then((answers) => {
-        fs.writeFile("README.md", renderMarkdown(answers), (err) => err ? console.error(err) : console.log("Qapla!"));
-      });
+  return inquirer.prompt(questions).then((answers) => {
+    fs.writeFile("README.md", renderMarkdown(answers), (err) => err ? console.error(err) : console.log("Qapla!"));
+  });
 }
 
 // Function call to initialize app
